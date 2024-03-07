@@ -1,0 +1,19 @@
+{
+  "name": "teafomo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fomoin/Teafomo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fomoin/Teafomo/issues"
+  },
+  "homepage": "https://github.com/fomoin/Teafomo#readme",
+  "description": ""
+}

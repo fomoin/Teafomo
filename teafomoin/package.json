@@ -1,6 +1,6 @@
 {
-  "name": "teafomo",
-  "version": "1.1.0",
+  "name": "teafomoin",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -25,5 +25,3 @@
     "eslint-config-next": "14.1.3"
   }
 }
-
- 
